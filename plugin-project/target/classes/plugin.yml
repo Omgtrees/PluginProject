@@ -1,0 +1,6 @@
+main: com.beepboop.pluginproject.App
+name: PluginProject
+api-version: 1.16
+version: 0.1
+author: [Trees, Fae]
+description: aaa
